@@ -108,6 +108,8 @@
     .scene-cut img { width: 100%; height: auto; display: block; border: 1px solid var(--rule); border-radius: 10px; }
     .scene-cut figcaption { font-size: 0.8rem; color: var(--muted); text-align: center; margin-top: 0.5rem; }
     .hero-tag { display: inline-block; font-size: 0.8rem; font-weight: 700; padding: 0.2rem 0.6rem; border-radius: 4px; background: rgba(241,182,70,0.15); color: var(--amber); border: 1px solid rgba(241,182,70,0.3); margin-bottom: 1rem; }
+    .paper-link { color: var(--amber); text-decoration: none; font-size: 0.9rem; border: 1px solid rgba(241,182,70,.35); border-radius: 20px; padding: 0.3rem 0.85rem; display: inline-block; margin-bottom: 0.7rem; }
+    .paper-link:hover { border-color: var(--amber); background: rgba(241,182,70,.08); }
     h1 { font-size: clamp(28px, 4.2vw, 46px); font-weight: 700; line-height: 1.25; margin-bottom: 1rem; }
     .hero-lead { font-size: 1.15rem; color: var(--muted); max-width: 860px; margin-bottom: 2rem; }
     .kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 1rem; margin: 2rem 0; }
@@ -266,6 +268,7 @@
   <header class="hero" id="hero">
     <div class="wrap">
       <div class="hero-tag">KReIS panel AI prognoz maqolasi chuqur tushuntirish · daftar anketa</div>
+      <a class="paper-link" href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003215908" target="_blank" rel="noopener" title="국민노후보장패널데이터를 활용한 가구 지출 예측 모델 연구: 인공지능 모델 기반 접근">📄 Maqolaning asl nusxasi (KCI) ↗</a>
       <h1>Keksalik uy xoʻjaligi daftari va AI prognoz modeli</h1>
       <p class="hero-lead">
         KReIS panel maʼlumotlari har ikki yilda toʻplab eʼlon qilinagani uchun, soʻrov oʻtkazilmagan yoki hali eʼlon qilinmagan "boʻsh yillarda" noqulay keksa oilalarning isteʼmoli va qarz holatini bilish qiyin. Bu tadqiqot oʻtgan vaqt qatorlari daftarlarini isteʼmol narxi, koʻchmas mulk kabi tashqi makroiqtisodiy koʻrsatkichlar bilan birlashtirib, boʻsh yillardagi oila holatini oldindan bashorat qiluvchi va erta ogohlantirish beruvchi AI yechimini tekshiradi.
@@ -1474,6 +1477,7 @@ var WHO_BASE = {};
       });
     });
   </script>
+
 
 
 
