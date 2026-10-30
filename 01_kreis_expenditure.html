@@ -859,6 +859,7 @@
       </figure>
       <script>
       (function(){
+        function initKgGraph(){
         var rawEl = document.getElementById('kg-raw');
         var cv = document.getElementById('cv_kg');
         if(!rawEl || !cv) return;
@@ -996,6 +997,8 @@
         });
         window.addEventListener('resize', draw);
         draw();
+        }
+        if(document.readyState === 'loading'){ document.addEventListener('DOMContentLoaded', initKgGraph); } else { initKgGraph(); }
       })();
       </script>
     </section>
@@ -1642,6 +1645,7 @@
       });
     });
   </script>
+
 
 
 
