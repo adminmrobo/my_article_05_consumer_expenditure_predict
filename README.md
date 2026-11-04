@@ -38,7 +38,7 @@
 ### 데이터와 이미지
 - 페이지의 캔버스 시뮬레이션·차트는 논문 통계 수치를 반영한 **설명용 모형**이고, KPI 숫자는 논문 실측 값입니다.
 - 그림은 AI 연구실 픽셀아트 자산(16비트 RPG 그림체)이며 HTML에 base64로 내장되어 있습니다. 그림 속 글자는 `og_01.png`의 한글 제목뿐입니다.
-- 등장인물: 박사 · 조수 · 초파리 연구원 · Money-Robo(연구실 로봇)
+- 등장인물: 박사 · 조수 · 초파리 연구원 · 주판봇(연구실 로봇)
 
 ### 라이선스
 크리에이티브 커먼즈 저작자표시-비영리 4.0 국제 라이선스 (CC BY-NC 4.0) — [deed.ko](https://creativecommons.org/licenses/by-nc/4.0/deed.ko)
@@ -79,7 +79,7 @@ The Korean Retirement Income Panel (KReIS) is surveyed and published every two y
 ### Data and images
 - The canvas simulations and charts are **illustrative mock-ups** built around the paper's statistics; the KPI numbers are the paper's measured values.
 - Images are 16-bit RPG pixel-art lab assets embedded in the HTML as base64. The only text inside an image is the Korean title in `og_01.png`.
-- Cast: the Doctor · the Assistant · the Fruit Fly Researcher · Money-Robo (the Lab Robot)
+- Cast: the Doctor · the Assistant · the Fruit Fly Researcher · AbaBot (the Lab Robot)
 
 ### License
 Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0) — [deed.en](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
@@ -120,7 +120,7 @@ Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4
 ### 数据与图片
 - 页面中的画布模拟与图表是基于论文统计值的**示意模型**；KPI 数字为论文实测值。
 - 插图为16位RPG像素风实验室资产，以 base64 内嵌于 HTML。图片中唯一的文字是 `og_01.png` 中的韩文标题。
-- 角色：博士 · 助手 · 果蝇研究员 · Money-Robo（研究室机器人）
+- 角色：博士 · 助手 · 果蝇研究员 · 算盘宝（研究室机器人）
 
 ### 许可
 知识共享 署名-非商业性使用 4.0 国际许可协议（CC BY-NC 4.0） — [deed](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans)
@@ -161,7 +161,7 @@ Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4
 ### データと画像
 - ページ内のキャンバスのシミュレーションやチャートは論文の統計値を反映した**説明用の模型**で、KPI数値は論文の実測値です。
 - 画像は16ビットRPG風ピクセルアートの実験室アセットで、HTMLにbase64で埋め込まれています。画像内の文字は `og_01.png` の韓国語タイトルのみです。
-- 登場人物：博士 · 助手 · ショウジョウバエ研究員 · Money-Robo（研究室ロボット）
+- 登場人物：博士 · 助手 · ショウジョウバエ研究員 · アバボット（研究室ロボット）
 
 ### ライセンス
 クリエイティブ・コモンズ 表示-非営利 4.0 国際ライセンス（CC BY-NC 4.0） — [deed](https://creativecommons.org/licenses/by-nc/4.0/deed.ja)
@@ -202,7 +202,7 @@ KReIS milliy keksalik kafolati panel maʼlumotlari har ikki yilda oʻtkaziladi v
 ### Maʼlumot va rasmlar
 - Sahifadagi canvas simulyatsiya va diagrammalar maqola statistikasi asosidagi **tushuntirish maketi**; KPI raqamlari maqolaning oʻlchangan qiymatlari.
 - Rasmlar 16-bit RPG piksel-art laboratoriya aktivlari, HTML ichiga base64 bilan joylangan. Rasmdagi yagona matn — `og_01.png` dagi koreys sarlavha.
-- Qahramonlar: Doktor · Yordamchi · Drozofila tadqiqotchisi · Money-Robo (Laboratoriya roboti)
+- Qahramonlar: Doktor · Yordamchi · Drozofila tadqiqotchisi · AbaBot (Laboratoriya roboti)
 
 ### Litsenziya
 Creative Commons Attribution-NonCommercial 4.0 International litsenziyasi (CC BY-NC 4.0) — [deed](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
@@ -243,7 +243,7 @@ Creative Commons Attribution-NonCommercial 4.0 International litsenziyasi (CC BY
 ### Данные и изображения
 - Симуляции и графики на canvas — **иллюстративный макет** на основе статистики статьи; числа KPI — измеренные значения статьи.
 - Изображения — пиксель-арт лабораторные ассеты (16-битный RPG-стиль), встроены в HTML как base64. Единственный текст на изображении — корейский заголовок в `og_01.png`.
-- Персонажи: Доктор · Ассистент · Исследователь-дрозофила · Money-Robo (Робот лаборатории)
+- Персонажи: Доктор · Ассистент · Исследователь-дрозофила · АбаБот (Робот лаборатории)
 
 ### Лицензия
 лицензия Creative Commons «Атрибуция — Некоммерческое использование» 4.0 Международная (CC BY-NC 4.0) — [deed](https://creativecommons.org/licenses/by-nc/4.0/deed.ru)
@@ -284,7 +284,7 @@ Dữ liệu bảng quốc gia bảo đảm tuổi già (KReIS) được khảo s
 ### Dữ liệu và hình ảnh
 - Mô phỏng và biểu đồ canvas trên trang là **mô hình minh họa** dựa trên số liệu thống kê của bài báo; số KPI là giá trị đo thực tế của bài báo.
 - Hình ảnh là tài nguyên phòng thí nghiệm pixel art 16-bit, nhúng vào HTML dưới dạng base64. Chữ duy nhất trong ảnh là tiêu đề tiếng Hàn trong `og_01.png`.
-- Nhân vật: Tiến sĩ · Trợ lý · Nhà nghiên cứu Ruồi giấm · Money-Robo (Robot phòng thí nghiệm)
+- Nhân vật: Tiến sĩ · Trợ lý · Nhà nghiên cứu Ruồi giấm · AbaBot (Robot phòng thí nghiệm)
 
 ### Giấy phép
 Giấy phép Creative Commons Ghi công – Phi thương mại 4.0 Quốc tế (CC BY-NC 4.0) — [deed](https://creativecommons.org/licenses/by-nc/4.0/deed.vi)

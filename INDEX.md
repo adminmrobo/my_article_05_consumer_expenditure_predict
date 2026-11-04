@@ -35,7 +35,7 @@
 | `doc_front` | 등장인물 카드(박사) |
 | `asst_smile` | 등장인물 카드, 대화창, 아웃트로(조수) |
 | `fly_clip` | 등장인물 카드(초파리 연구원) |
-| `robo_smile` | 등장인물 카드(Money-Robo) |
+| `robo_smile` | 등장인물 카드(주판봇) |
 | `fly_point` | 대결 전 아바타(duel), 대화창 |
 | `robo_coin` | 대결 전 아바타(duel), 대화창 |
 | `doc_judge` | 판정 대화창, 아웃트로 |
